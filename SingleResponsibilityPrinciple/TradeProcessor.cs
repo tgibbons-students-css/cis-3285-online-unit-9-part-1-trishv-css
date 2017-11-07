@@ -106,6 +106,7 @@ namespace SingleResponsibilityPrinciple
         private void StoreTrades(IEnumerable<TradeRecord> trades)
         {
             LogMessage("INFO", "  Connecting to Database");
+            
             using (var connection = new System.Data.SqlClient.SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\tradedatabase.mdf;Integrated Security=True;Connect Timeout=30;"))
             {
                 connection.Open();

@@ -3,3 +3,12 @@ C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\bi
 C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\bin\Debug\Database.pdb
 C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\obj\Debug\Database.dll
 C:\Users\tgibbons\source\repos\cis-3285-unit-9-practice-tgibbons-css\Database\obj\Debug\Database.pdb
+C:\Users\Trish Valeri\Desktop\Unit9\Database\bin\Debug\Database.dacpac
+C:\Users\Trish Valeri\Desktop\Unit9\Database\bin\Debug\Database.dll
+C:\Users\Trish Valeri\Desktop\Unit9\Database\bin\Debug\Database.pdb
+C:\Users\Trish Valeri\Desktop\Unit9\Database\obj\Debug\Model.xml
+C:\Users\Trish Valeri\Desktop\Unit9\Database\obj\Debug\refactor.xml
+C:\Users\Trish Valeri\Desktop\Unit9\Database\obj\Debug\postdeploy.sql
+C:\Users\Trish Valeri\Desktop\Unit9\Database\obj\Debug\predeploy.sql
+C:\Users\Trish Valeri\Desktop\Unit9\Database\obj\Debug\Database.dll
+C:\Users\Trish Valeri\Desktop\Unit9\Database\obj\Debug\Database.pdb
